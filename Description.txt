@@ -1,0 +1,19 @@
+Automation solution based on Excel (VBA). Interacts with SAP ERP (enterprise resource planning) system for Kindred client at Insight (five times decrese for data input process (hundred times stress reduction for a technician)).
+
+--------------------------
+	=Versions=
+--------------------------
+v.1.00
+[first release version]
+Push data to SAP ERP system for Kindred client
+*Main sheet
+	-Copy POs without duplicates
+	-Pull order quantity for pack/unpack
+	-Pack/unpack orders
+	-Print Stickers
+	-Pull CNF Check (E18 cell changes time delay(in seconds))
+*PushData
+	-Copy data without blank spaces
+	-Pull order quantity for right amount of data push loops
+	-Push data to SAP ERP
+*Data (source data for manipulation)
