@@ -8,8 +8,8 @@ Automation solution based on Excel (VBA). Interacts with SAP ERP (enterprise res
 <p>
 <p align="left">
   <img src="https://github.com/glebbatov/FullAuto.Kindred/blob/master/01.jpg" width="750">
-  <img src="https://github.com/glebbatov/FullAuto.Kindred/blob/master/02.jpg" width="500">
-  <img src="https://github.com/glebbatov/FullAuto.Kindred/blob/master/03.jpg" width="500">
+  <img src="https://github.com/glebbatov/FullAuto.Kindred/blob/master/02.jpg" width="750">
+  <img src="https://github.com/glebbatov/FullAuto.Kindred/blob/master/03.jpg" width="750">
 </p>
 
 # Versions
