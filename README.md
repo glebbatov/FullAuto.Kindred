@@ -4,7 +4,7 @@
   <h3>[VBA, Excel]</h3>
 <p>
   
-Automation solution based on Excel (VBA). Interacts with SAP ERP (enterprise resource planning) system for Kindred client at Insight (five times decrese for data input process (hundred times stress reduction for a technician)).
+Automation solution based on Excel (VBA). Interacts with SAP ERP (enterprise resource planning) system for Kindred client at Insight (five times decrease for data input process (hundred times stress reduction for a technician)).
 <p>
 <p align="left">
   <img src="https://github.com/glebbatov/FullAuto.Kindred/blob/master/01.jpg" width="600">
