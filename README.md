@@ -15,7 +15,9 @@ Automation solution based on Excel (VBA). Interacts with SAP ERP (enterprise res
 # Versions
 
 v.1.00
+
 [first release version]
+
 Push data to SAP ERP system for Kindred client
 * Main sheet
 	* Copy POs without duplicates
